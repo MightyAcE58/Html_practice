@@ -1,4 +1,9 @@
 p{
     align-items: center;
-    text-decoration: wavy;
+    text-align: calc(70% - 500px);
+    width: 500px;
+text-shadow: "3";
+}
+h1{
+    font-style: italic;
 }
